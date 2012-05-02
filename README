@@ -2,5 +2,6 @@ Sample Project
 
 {
 Added Hemant's comments
-System.out.println("I am a Hero");
+System.out.println("I am a Hero - Hero Hiralal");
+System.out.println("Vikas is also a Hero");
 }
